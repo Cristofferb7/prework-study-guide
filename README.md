@@ -45,6 +45,4 @@ JAVA, CSS and HTML.
 N/A
 
 ## Tests
-
-file:///C:/Users/crist/bootcamp/prework-study-guide/index.html
-
+https://cristofferb7.github.io/prework-study-guide/
